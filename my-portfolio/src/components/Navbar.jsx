@@ -23,7 +23,7 @@ const Navbar = () => {
         <li>About</li>
         <li>Experience</li>
         <li>Skills</li>
-        <li>Project</li>
+        <li>Projects</li>
       </ul>
 
       <div onClick={handleClick} className="md:hidden z-10">
@@ -42,7 +42,7 @@ const Navbar = () => {
         <li className="py-6 text-4xl">About</li>
         <li className="py-6 text-4xl">Experience</li>
         <li className="py-6 text-4xl">Skills</li>
-        <li className="py-6 text-4xl">Project</li>
+        <li className="py-6 text-4xl">Projects</li>
       </ul>
 
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
