@@ -97,6 +97,8 @@ const Skills = () => {
             <p className="px-4 text-center">Postman</p>
           </div>
         </div>
+
+        {/* skills 2 */}
       </div>
     </div>
   );

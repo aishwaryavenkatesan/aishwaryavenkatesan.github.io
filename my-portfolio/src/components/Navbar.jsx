@@ -71,9 +71,15 @@ const Navbar = () => {
         </li>
         <li className="py-6 text-4xl">
           {" "}
-          <Link to="experience" smooth={true} duration={500}>
+          <Link
+            onClick={handleClick}
+            to="experience"
+            smooth={true}
+            duration={500}
+          >
             Experience
           </Link>
+          {/* <a href="/experience">Experience</a> */}
         </li>
         <li className="py-6 text-4xl">
           {" "}
