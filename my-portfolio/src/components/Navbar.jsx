@@ -121,7 +121,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://github.com/aishwaryavenkatesan/aishwaryavenkatesan.github.io/blob/main/Aishwarya_V_resume.pdf"
-              download={Aishwarya_V_resume.pdf}
+              download="aishwarya_v_resume.pdf"
             >
               Resume
               <HiOutlineDocument size={30} />
