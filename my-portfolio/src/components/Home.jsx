@@ -1,11 +1,13 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
+import Logo from "../assets/aishwaryav.jpg";
 
 const Home = () => {
   return (
     <div name="home" className="w-full h-screen bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
-        <p className="text-pink-600">Hi, this is</p>
+        <img src={Logo} alt="Logo Image" style={{ width: "200px" }} />
+        <p className="text-pink-600 mt-5">Hi, this is</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
           Aishwarya
         </h1>
