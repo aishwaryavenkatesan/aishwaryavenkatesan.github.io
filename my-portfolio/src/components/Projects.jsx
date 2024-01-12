@@ -111,6 +111,36 @@ const Projects = () => {
               </div>
             </div>
           </div>
+          {/* project 4 */}
+          <div
+            // style={{ backgroundImage: `url(${youtubeClone})` }}
+            className="shadow-lg shadow-[#040c16] hover:scale-110 duration-500 group container rounded-md flex justify-center items-center mx-auto"
+          >
+            {" "}
+            {/* hover */}
+            <div>
+              <p className="text-center">
+                <span className="text-2xl sm:text-[20px] font bold text-white tracking-wider">
+                  {" "}
+                  Traveling Salesman Problem
+                </span>
+              </p>
+
+              <p className="text-gray-300 font-bold text-lg text-center">
+                Tech Stack
+              </p>
+              <p className="text-center text-sm">
+                Java, Data Structures and Algorithms
+              </p>
+              <div className="pt-2 text-center">
+                <a href="/">
+                  <button className="text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
