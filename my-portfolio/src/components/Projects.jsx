@@ -129,9 +129,7 @@ const Projects = () => {
               <p className="text-gray-300 font-bold text-lg text-center">
                 Tech Stack
               </p>
-              <p className="text-center text-sm">
-                Java, Data Structures and Algorithms
-              </p>
+              <p className="text-center text-sm">Java, DSA</p>
               <div className="pt-2 text-center">
                 <a href="/">
                   <button className="text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg">
