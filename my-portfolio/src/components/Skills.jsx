@@ -82,16 +82,38 @@ const Skills = () => {
             <p className="px-4 text-center">Jenkins</p>
           </div>
           <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
+            <p className="px-4 text-center">OpenShift</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
+            <p className="px-4 text-center">Docker</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
+            <p className="px-4 text-center">Sonarqube</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
             <p className="px-4 text-center">Elasticsearch</p>
           </div>
           <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
+            <p className="px-4 text-center">Kibana</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
             <p className="px-4 text-center">Pulumi</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
+            <p className="px-4 text-center">MongoDB</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
+            <p className="px-4 text-center">MySQL</p>
           </div>
           <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
             <p className="px-4 text-center">GCP</p>
           </div>
           <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
             <p className="px-4 text-center">REST APIs</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
+            <p className="px-4 text-center">Jira</p>
           </div>
           <div className="shadow-md shadow-[#040c16] flex items-center justify-center w-32 h-16">
             <p className="px-4 text-center">Postman</p>

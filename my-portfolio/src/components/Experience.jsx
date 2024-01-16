@@ -16,7 +16,7 @@ const Experience = () => {
         <div class="flex flex-col md:grid grid-cols-9 mx-auto p-2 text-blue-50">
           {/* <!-- left --> */}
           <div class="flex flex-row-reverse md:contents">
-            <div class="bg-blue-500 col-start-1 col-end-5 p-4 rounded-xl my-4 ml-auto shadow-md">
+            <div class="experience-div col-start-1 col-end-5 p-4 rounded-xl my-4 ml-auto shadow-md">
               <h3 class="font-semibold text-md mb-1">
                 Northeastern University, MS in Information Systems
               </h3>
@@ -41,7 +41,7 @@ const Experience = () => {
               </div>
               <div class="w-6 h-6 absolute top-1/2 -mt-3 rounded-full bg-blue-500 shadow"></div>
             </div>
-            <div class="bg-blue-500 col-start-6 col-end-10 p-4 rounded-xl my-4 mr-auto shadow-md">
+            <div class="experience-div col-start-6 col-end-10 p-4 rounded-xl my-4 mr-auto shadow-md bg-blue-500">
               <h3 class="font-semibold text-lg mb-1">
                 Barclays, Software Developer
               </h3>
@@ -67,7 +67,7 @@ const Experience = () => {
           </div>
           {/* <!-- left --> */}
           <div class="flex flex-row-reverse md:contents">
-            <div class="bg-blue-500 col-start-1 col-end-5 p-4 rounded-xl my-4 ml-auto shadow-md">
+            <div class="experience-div bg-blue-500 col-start-1 col-end-5 p-4 rounded-xl my-4 ml-auto shadow-md">
               <h3 class="font-semibold text-md mb-1">
                 SSN College of Engineering, B.Tech in Information Technology
               </h3>
