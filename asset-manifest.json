@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.03427682.css",
-    "main.js": "/static/js/main.556dd11e.js",
+    "main.css": "/static/css/main.ca392305.css",
+    "main.js": "/static/js/main.53cac4c9.js",
     "static/js/496.2ca0828e.chunk.js": "/static/js/496.2ca0828e.chunk.js",
     "static/media/aishwaryav.jpg": "/static/media/aishwaryav.3029dff066cf40950e74.jpg",
     "static/media/AishwaryaVresume.pdf": "/static/media/AishwaryaVresume.87235add6624885b7cc3.pdf",
@@ -17,12 +17,12 @@
     "static/media/githubactions.png": "/static/media/githubactions.5403b8db7e0740edbb69.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.03427682.css.map": "/static/css/main.03427682.css.map",
-    "main.556dd11e.js.map": "/static/js/main.556dd11e.js.map",
+    "main.ca392305.css.map": "/static/css/main.ca392305.css.map",
+    "main.53cac4c9.js.map": "/static/js/main.53cac4c9.js.map",
     "496.2ca0828e.chunk.js.map": "/static/js/496.2ca0828e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03427682.css",
-    "static/js/main.556dd11e.js"
+    "static/css/main.ca392305.css",
+    "static/js/main.53cac4c9.js"
   ]
 }
